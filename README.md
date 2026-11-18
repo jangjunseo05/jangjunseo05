@@ -16,9 +16,9 @@
   - 텔레옵 데이터 80+80개 수집, ACT · SmolVLA · π0 · GR00T 모델 32개 학습
   - 학습 손실이 아닌 실물 5회 연속 시험으로 최종 모델 선정 (SmolVLA **5/5**)
   - 안전 래퍼 5종과 로봇 탑재 노트북 로컬 추론으로 웹 주문 → 물따르기 → 서빙 → 도크 복귀 미션에 통합
-- 🏆 **NVIDIA Agentic AI Hackathon 2026 최종 결선 TOP 5** (Team Mollet)
+- 🏆 **NVIDIA Agentic AI Hackathon 2026 결선 진출 TOP 5** (Team Mollet)
   — NVIDIA AI Day Seoul 2026 결선 무대 발표 (2026.11.10)
-  - [RL Triage Agent](https://github.com/jangjunseo05/rl-triage-agent/blob/main/README.md): Isaac Lab 강화학습 실패 진단 에이전트 — 재현성 검증 · 결선 발표 담당
+  - [RL Triage Agent](https://github.com/jangjunseo05/rl-triage-agent/blob/main/README.md): Isaac Lab 강화학습 실패 진단 에이전트 — 문제 구간 파악 · 수정과 추가 실험 · 결선 무대 발표 담당
   - [한글동행](https://github.com/jangjunseo05/hangul-donghaeng/blob/main/README.md): 카메라로 랜드마크를 인식해 음성으로 안내하는 여행 에이전트
 
 ---
