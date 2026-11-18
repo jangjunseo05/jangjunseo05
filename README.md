@@ -5,7 +5,7 @@
 로봇 하드웨어 설계부터 데이터 수집, 모델 학습, 실물 검증까지 직접 다루며
 사람 곁에서 함께하는 로봇을 만듭니다.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-junseo--jang--portfolio-0E7490?style=for-the-badge&logo=netlify&logoColor=white)](https://junseo-jang-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-junseojang--portfolio-0E7490?style=for-the-badge&logo=netlify&logoColor=white)](https://junseojang-portfolio.netlify.app)
 
 ---
 
@@ -29,7 +29,7 @@
 |---|---|---|
 | STEP 1 | [커스텀 4축 리더암](https://github.com/jangjunseo05/custom-4dof-leader-arm/blob/main/README.md) | SG90 서보를 개조해 관절 각도를 읽는 저비용 리더암 제작, MuJoCo real-to-sim 텔레옵 |
 | STEP 2 | [SO-101 모방학습 대시보드](https://github.com/jangjunseo05/so101-il-dev-toolkit/blob/master/README.md) | 수집 → QA → 학습 → 추론을 하나의 웹 대시보드로, ACT 정책 MuJoCo 검증 |
-| STEP 3 | [세미 휴머노이드 모바일 매니퓰레이터](https://github.com/jangjunseo05/semi-humanoid-mobile-manipulator/blob/main/README.md) | Gazebo에서 URDF · SLAM · Nav2 · YOLO+뎁스 · 해석적 IK 통합 |
+| STEP 3 | [세미 휴머노이드 모바일 매니퓰레이터](https://github.com/jangjunseo05/semi-humanoid-mobile-manipulator/blob/main/README.md) | Gazebo에서 URDF · SLAM · Nav2 · YOLO+뎁스 · 해석적 IK 통합 — 멀리서 찾은 가방까지 접근해 팔 접촉, 같은 시작 위치 10/10 (시뮬레이션, 접촉 센서 확인) |
 
 ### 🧠 로봇 이전의 AI 연구
 
@@ -75,7 +75,7 @@
 |---|---|
 | 🎯 관심 직무 | 로봇 매니퓰레이션 · VLA · 모방학습 · 로봇 데이터 수집 / 품질 관리 |
 | 🎓 학력 | 동국대학교 컴퓨터·AI학과 (편입, GPA 3.68/4.5) · 동국대 DAPIER 피지컬 AI 부트캠프 수료 |
-| 📚 먼저 볼 곳 | [포트폴리오](https://junseo-jang-portfolio.netlify.app) · [양팔 서빙 로봇](https://github.com/jangjunseo05/bimanual-robot/blob/main/README.md) · [SO-101 대시보드](https://github.com/jangjunseo05/so101-il-dev-toolkit/blob/master/README.md) · [RL Triage Agent](https://github.com/jangjunseo05/rl-triage-agent/blob/main/README.md) |
+| 📚 먼저 볼 곳 | [포트폴리오](https://junseojang-portfolio.netlify.app) · [양팔 서빙 로봇](https://github.com/jangjunseo05/bimanual-robot/blob/main/README.md) · [SO-101 대시보드](https://github.com/jangjunseo05/so101-il-dev-toolkit/blob/master/README.md) · [RL Triage Agent](https://github.com/jangjunseo05/rl-triage-agent/blob/main/README.md) |
 
 ---
 
@@ -83,4 +83,4 @@
 
 [![Email](https://img.shields.io/badge/Email-jangjunseo05%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:jangjunseo05@naver.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jangjunseo05-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jangjunseo05)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Netlify-0E7490?style=flat-square&logo=netlify&logoColor=white)](https://junseo-jang-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Netlify-0E7490?style=flat-square&logo=netlify&logoColor=white)](https://junseojang-portfolio.netlify.app)
